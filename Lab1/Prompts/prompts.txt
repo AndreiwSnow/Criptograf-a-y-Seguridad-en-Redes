@@ -1,0 +1,9 @@
+Prompt 1:	
+*Hola, necesito generar un programa en python 3 que permita cifrar texto usando el algoritmo de cesar. el codigo a cifrar es "criptografia y seguridad en redes" y el numero de desplazamientos es 9. Estos seran ejecutados en vscode en linux
+*Necesito que la consola me pida el string y los corrimientos
+
+Prompt 2: 
+*Ahora necesito enviar los carácteres del string del código anterior en varios paquetes icmp request (un caracter por paquete en el campo data de ICMP)
+Prompt 3: 
+*Generar un programa, en python3 utilizando ChatGPT, que permita obtener el mensaje transmitido en el paso2. Como no se sabe cual es el corrimiento utilizado, genere todas las combinaciones posibles e impr ́ımalas, indicando en verde la opci ́on m ́as probable de ser el mensaje en claro.
+*la captura no es pcap es pcapng 
